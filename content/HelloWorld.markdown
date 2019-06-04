@@ -1,5 +1,5 @@
 ---
-title: Welcome to maatemantram's blog
+title: Hello, hearty welcome
 tags: blog-o-matic
 layout: post
 date: 2019-01-08 19:26:00 +0100
@@ -9,7 +9,7 @@ description:
 lang: en
 ---
 
-# Welcome to maatemantram's blog!
+# It's nothing about the world
 
 If you're seeing this, my new blog based on [blog-o-matic](https://github.com/iranzo/blog-o-matic) has been correctly setup and published to Git Hub Pages.
 
